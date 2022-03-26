@@ -18,6 +18,7 @@ module.exports = {
     "plugin:jsx-a11y/strict",
     "plugin:jest/recommended",
     "prettier",
+    "next",
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {

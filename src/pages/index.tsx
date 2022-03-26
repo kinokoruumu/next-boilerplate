@@ -1,6 +1,6 @@
-import { NextPage } from "next"
-import Head from "next/head"
-import { Box } from "@chakra-ui/react"
+import { NextPage } from "next";
+import Head from "next/head";
+import { Box } from "@chakra-ui/react";
 
 const Home: NextPage = () => {
   return (
@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         </h1>
       </main>
     </Box>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
